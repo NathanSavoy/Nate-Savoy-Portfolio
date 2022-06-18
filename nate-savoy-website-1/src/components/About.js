@@ -1,14 +1,14 @@
 import React from "react";
 
-function Contact(){
+function About() {
     return(
-        <div className="contact">
+        <div className="about">
                 <div class="container">
                     <div class="row align-items-center my-5">
                         <div class="col-lg-7">
                             <img 
                                 class="img-fluid rounded mb-4 mb-lg-0"
-                                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.MqcBuumQO2a7EjaKLhBPdwHaEo%26pid%3DApi&f=1"
+                                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.sQDe1CoyOaY-YxKgQxPIfwHaE7%26pid%3DApi&f=1"
                                 alt=""
                             />
                         </div>
@@ -26,4 +26,4 @@ function Contact(){
     );
 }
 
-export default Contact();
+export default About;

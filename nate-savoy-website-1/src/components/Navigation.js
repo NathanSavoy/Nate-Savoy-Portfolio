@@ -1,7 +1,7 @@
 import React from "react";
-import { navlink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
-funciton Navigation() {
+function Navigation() {
     return(
         <div className="navigation">
             <nav className="navbar navbar-expand navbar-dark bg-dark">
